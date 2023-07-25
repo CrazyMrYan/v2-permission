@@ -1,0 +1,18 @@
+{
+  "name": "v2-permission",
+  "version": "1.0.1",
+  "description": "一个 Vue2 的权限指令",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zertosh/v8-compile-cache.git"
+  },
+  "author": "CrazyMrYan",
+  "license": "ISC"
+}
