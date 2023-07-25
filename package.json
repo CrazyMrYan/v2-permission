@@ -1,6 +1,6 @@
 {
   "name": "v2-permission",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "一个 Vue2 的权限指令",
   "main": "src/index.js",
   "scripts": {
