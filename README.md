@@ -1,5 +1,5 @@
 # v2-permission
-
+[![Node.js Package](https://github.com/CrazyMrYan/v2-permission/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/CrazyMrYan/v2-permission/actions/workflows/npm-publish.yml)
 ## 快速上手
 
 ### 引入
