@@ -2,6 +2,12 @@
 [![Node.js Package](https://github.com/CrazyMrYan/v2-permission/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/CrazyMrYan/v2-permission/actions/workflows/npm-publish.yml)
 ## 快速上手
 
+### 安装
+
+```shell
+npm install v2-permission
+```
+
 ### 引入
 
 ```javascript
